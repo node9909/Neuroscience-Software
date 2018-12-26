@@ -5,6 +5,7 @@ The Neuroscience Software for science research and make application
 + [Imagescope](https://courses.nus.edu.sg/course/patngame/internet/User%20Guide/Aperio_ImageScope_User_Guide%20for%20Windows.pdf): Phân tích, chuẩn đoán bệnh lý dùng trong phân tích y sinh và y học bằng hình ảnh.
 + [ImageJ](https://imagej.nih.gov/ij/docs/concepts.html): Là phần mềm mã nguồn mở dùng trong phân tích, xử lý và nghiên cứu công nghệ sinh học, kỹ thuật y sinh, ảnh y khoa, phân tích kích thước hạt, phân tích kích thước tế bào,...
 + [NeuroLucida](https://www.mbfbioscience.com/neurolucida): Là phần mềm khoa học để lập bản đồ não, tái tạo tế bào thần kinh, lập bản đồ giải phẫu và hình thái học.
++ [BCI2000](https://www.bci2000.org/mediawiki/index.php/User_Tutorial:BCI2000_Tour#Starting_up_BCI2000)
 ## Algorithms for EEG-Based BCI
 + Sensorimotor activity:
   + Slow Cortical Potentials (SCPs)
@@ -34,6 +35,7 @@ The Neuroscience Software for science research and make application
   + Small Training Set
 + Devices
   + EMOTIV EPOC
-  + OpenBCI Hardware
+  + [OpenBCI Hardware](http://docs.openbci.com/Hardware/01-OpenBCI_Hardware)
+  + SQUID (Superconducting quantum interference device): Độ nhạy cực cao của SQUID khiến chúng trở nên lý tưởng cho các nghiên cứu về sinh học. Chẳng hạn, từ điện não đồ (MEG), sử dụng các phép đo từ một loạt SQUID để suy luận về hoạt động thần kinh bên trong não. 
 ## Implementation
 ## Abbreviation of keyword 
