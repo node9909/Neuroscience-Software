@@ -95,4 +95,7 @@ The Neuroscience Software for science research and make application
 + LAT: Local Averaging technique
 + LDA: Linear Discriminant analysis
 + LIS: Locked-in Syndrome 
-
++ RFLDA: Regularized Fisher's Linear Discriminant Analysis 
++ RMP: Resting Membrane potential
++ ROM: Range of motion 
++ **TTD: Thought translation device**
