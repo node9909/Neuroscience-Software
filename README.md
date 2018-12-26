@@ -64,4 +64,35 @@ The Neuroscience Software for science research and make application
 + CSPs: Common spatial patterns
 + CSSD: Common spatial-subspace decomposition 
 + CSSP: Common spatio-spatial pattern
++ CSV: Comma-separated value
++ DAP: Deep anal pressure
++ DBI: Direct Brain Interface
++ DIL: Dual inline package
++ DRL: Driven right leg
++ DWT: Discrete Wavelet Transform  
++ ECoG: Electrocorticogram
++ EDF: European Data Format 
++ EEG: Electroencephalography
++ EMG: Electromyography
++ EML: EmoComposer Markup Language
++ EOG: Electrooculography
++ ERD: Event-related desynchronization
++ ERPs: Event-related Potentials
++ ERS: Event-related Synchronization
++ FIRNN: Finite Impulse Response Neural Networks
++ fMRI: Functional magnetic resonance imaging
++ GDNN: Gamma Dynamic Neural Network
++ GMMs: Gaussian Mixture Model
++ GUI: Graphical user interface 
++ HCI: Human Computer Interface
++ HMI: Human Machine Interface
++ HMM: Hidden Markov model
++ ICA: Independent Component Analysis
++ IDE: Integrated Development Environment
++ IOHMM: Input - Output HMM
++ ISP: In-system programmer
++ kNN: k-nearest neighbors
++ LAT: Local Averaging technique
++ LDA: Linear Discriminant analysis
++ LIS: Locked-in Syndrome 
 
