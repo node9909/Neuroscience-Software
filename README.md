@@ -6,6 +6,10 @@ The Neuroscience Software for science research and make application
 + [ImageJ](https://imagej.nih.gov/ij/docs/concepts.html): Là phần mềm mã nguồn mở dùng trong phân tích, xử lý và nghiên cứu công nghệ sinh học, kỹ thuật y sinh, ảnh y khoa, phân tích kích thước hạt, phân tích kích thước tế bào,...
 + [NeuroLucida](https://www.mbfbioscience.com/neurolucida): Là phần mềm khoa học để lập bản đồ não, tái tạo tế bào thần kinh, lập bản đồ giải phẫu và hình thái học.
 + [BCI2000](https://www.bci2000.org/mediawiki/index.php/User_Tutorial:BCI2000_Tour#Starting_up_BCI2000)
++ [OpenViBE](http://openvibe.inria.fr/how-to-connect-emotiv-epoc-with-openvibe/): Để kết nối thiết bị thu sóng não với máy tính và phần mềm máy tính thì bạn phải cài đặt driver hỗ trợ cho thiết bị. Để phát triển phần mềm và phát triển API cho thiết bị khác như thiết bị di động thì bạn cần cài đặt bộ [SDK](https://emotiv.zendesk.com/hc/en-us) phù hợp
+
+Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu sóng não bạn nên kiểm tra danh sách các thiết bị và phần cứng mà nhà sản xuất và phần mềm
+
 ## Algorithms for EEG-Based BCI
 + Sensorimotor activity:
   + Slow Cortical Potentials (SCPs)
