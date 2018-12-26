@@ -16,7 +16,7 @@ Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu só
   + Slow Cortical Potentials (SCPs)
   + P300: Là loại sóng não kích thích quá trình hình ảnh sau 300 ms, nhưng khả năng thị giác thường muộn hơn 50-100 ms so với khả năng thính giác, nên kể từ khi bạn gắn headset vào đầu và bắt đầu bắt tín hiệu thì sau khoảng 350-450 ms bạn sẽ nhận được tín hiệu P3
   + Visual Evoked Potentials (VEP)
-  + Steady State Visually Evoked Potential (SSVEP)
+  + Steady State Visually Evoked Potentials (SSVEPs): Là các tín hiệu phản hồi tự nhiên của các kích thích thị giác tại các tần số nhất định 
   + Response to Mental Tasks
   + Activity of Neural Cells (ANC)
   + Multiple Neuromechanism 
@@ -56,6 +56,7 @@ Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu só
 + API: Application Programming Interface
 + AR: Auto Regressive
 + BCI: Brain Computer Interface
++ BCNI: Brain Computer Neural Interface 
 + BGN: Bayesian Graphical Network
 + BLRNN: Bayesian logistic regression neural network 
 + BMI: Brain Machine Interface
