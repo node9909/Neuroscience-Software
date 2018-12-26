@@ -14,7 +14,7 @@ Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu só
 ## Algorithms for EEG-Based BCI
 + Sensorimotor activity:
   + Slow Cortical Potentials (SCPs)
-  + P300: Là loại sóng não kích thích quá trình hình ảnh sau 300 ms, nhưng khả năng thị giác thường muộn hơn 50-100 ms so với khả năng thính giác, nên kể từ ki bạn gắn headset vào đầu và bắt đầu bắt tín hiệu thì sau khoảng 350-450 ms bạn sẽ nhận được tín hiệu P3
+  + P300: Là loại sóng não kích thích quá trình hình ảnh sau 300 ms, nhưng khả năng thị giác thường muộn hơn 50-100 ms so với khả năng thính giác, nên kể từ khi bạn gắn headset vào đầu và bắt đầu bắt tín hiệu thì sau khoảng 350-450 ms bạn sẽ nhận được tín hiệu P3
   + Visual Evoked Potentials (VEP)
   + Steady State Visually Evoked Potential (SSVEP)
   + Response to Mental Tasks
@@ -40,6 +40,7 @@ Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu só
   + Small Training Set
 + Devices
   + EMOTIV EPOC
+  + [NeuroSky](http://developer.neurosky.com/docs/doku.php?id=what_is_thinkgear)
   + [OpenBCI Hardware](http://docs.openbci.com/Hardware/01-OpenBCI_Hardware)
   + SQUID (Superconducting quantum interference device): Độ nhạy cực cao của SQUID khiến chúng trở nên lý tưởng cho các nghiên cứu về sinh học. Chẳng hạn, từ điện não đồ (MEG), sử dụng các phép đo từ một loạt SQUID để suy luận về hoạt động thần kinh bên trong não. 
 ## Implementation
