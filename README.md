@@ -38,4 +38,30 @@ The Neuroscience Software for science research and make application
   + [OpenBCI Hardware](http://docs.openbci.com/Hardware/01-OpenBCI_Hardware)
   + SQUID (Superconducting quantum interference device): Độ nhạy cực cao của SQUID khiến chúng trở nên lý tưởng cho các nghiên cứu về sinh học. Chẳng hạn, từ điện não đồ (MEG), sử dụng các phép đo từ một loạt SQUID để suy luận về hoạt động thần kinh bên trong não. 
 ## Implementation
-## Abbreviation of keyword 
+## Keyword 
++ AAR: Adaptive auto regressive 
++ AD/HD: Attention-deficit/hyperactivity disorder 
++ ADC: Analog to digital converter 
++ AIS: ASIA Impairment Scale
++ ALN: Adaptive Logic Network
++ ANC: Activity of Neuron Cells
++ ANFIS: Adaptive neuron-fuzzy inference system 
++ ANN: Artificial Neuron Network 
++ API: Application Programming Interface
++ AR: Auto Regressive
++ BCI: Brain Computer Interface
++ BGN: Bayesian Graphical Network
++ BLRNN: Bayesian logistic regression neural network 
++ BMI: Brain Machine Interface
++ BOLD: Blood oxygenation level-dependent signals
++ BP: Band Power 
++ CAR: Common Average Referencing 
++ CGM: Conjugate gradient method
++ CMRR: Common mode rejection ratio
++ CMS: Common mode sense
++ CNP: Cortical neural prostheses
++ CNS: Central Neural System 
++ CSPs: Common spatial patterns
++ CSSD: Common spatial-subspace decomposition 
++ CSSP: Common spatio-spatial pattern
+
