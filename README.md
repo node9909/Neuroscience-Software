@@ -10,6 +10,7 @@ The Neuroscience Software for science research and make application
   + Slow Cortical Potentials (SCPs)
   + P300
   + Visual Evoked Potentials (VEP)
+  + Steady State Visually Evoked Potential (SSVEP)
   + Response to Mental Tasks
   + Activity of Neural Cells (ANC)
   + Multiple Neuromechanism 
@@ -18,6 +19,21 @@ The Neuroscience Software for science research and make application
   + Classification based on timing
   + Classification based on the placement of the sensors
 + BCI algorithms:
+  + Linear Classifier
+  + Linear Discriminant Analysis 
+  + Support Vector Machine
+  + Neural Networks
+  + Nearest Neighbor Classifier
+  + Combination of Classifier
+  + Synchronous BCI
+  + Asynchronous BCI
+  + Noise and Outliers
+  + High Dimensionality
+  + Time Information 
+  + Non-stationarity 
+  + Small Training Set
 + Devices
+  + EMOTIV EPOC
+  + OpenBCI Hardware
 ## Implementation
 ## Abbreviation of keyword 
