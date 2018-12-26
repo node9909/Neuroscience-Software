@@ -104,3 +104,6 @@ Lưu ý: Khi cài đặt phần mềm tương tác cho các thiết bị thu só
 + RMP: Resting Membrane potential
 + ROM: Range of motion 
 + **TTD: Thought translation device**
+
+## References:
+P300 and EMOTIV EPOC: Does EMOTIV EPOC capture real EEG? https://www.emotiv.com/independent-studies/p300-and-emotiv-epoc/
